@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>51939500155-hl0jjfm2j49lbh5sf9tc8ce1mc3rvtpu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.51939500155-hl0jjfm2j49lbh5sf9tc8ce1mc3rvtpu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDgKzixo-BmDnnt8ntQH2DQaz7caz5TpRM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>51939500155</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.gaysex.Chat</string>
+	<key>PROJECT_ID</key>
+	<string>chat-ef2bc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chat-ef2bc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:51939500155:ios:5b25b9753c01f40f5642de</string>
+</dict>
+</plist>
